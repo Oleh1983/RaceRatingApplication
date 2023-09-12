@@ -1,0 +1,17 @@
+# folder logs
+logs/
+
+# txt-files
+.txt
+
+.classpath
+
+.project
+
+.settings
+
+target
+
+.jar
+
+pom.xml.versionsBackup
